@@ -42,3 +42,4 @@ src/main/java/com/example/student_tracking/
 - Temel sıralama ve arama algoritmaları
 
 https://student-tracking-production.up.railway.app/students
+![Uygulama Görseli](assets/Screenshot1.png)
