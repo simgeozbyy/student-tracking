@@ -1,4 +1,5 @@
-# Student Tracking Projesi
+Simge Özbay - H5230018
+# Student Tracking Projesi(Öğrenci Takip)
 
 Bu proje, Spring Boot kullanarak geliştirilmiş basit bir öğrenci takip sistemidir. Öğrencilerin eklenmesi, listelenmesi ve silinmesi gibi işlemleri REST API üzerinden sağlar. Ayrıca Java 8 özellikleri, generic programlama, multithread ve temel sıralama/arama algoritmaları içermektedir.
 src/main/java/com/example/student_tracking/
