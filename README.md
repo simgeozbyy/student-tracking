@@ -43,3 +43,4 @@ src/main/java/com/example/student_tracking/
 
 https://student-tracking-production.up.railway.app/students
 ![Uygulama Görseli](assets/Screenshot1.png)
+![Uygulama Görseli](assets/Screenshot2.png)
